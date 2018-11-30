@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="009b5449-6cff-4d49-b3fc-140cf12b2927" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/les-miserables.gexf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les-miserables.gexf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_rank_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/data/les-miserables.gexf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/data/six.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/data/test_json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/out_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/attribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/dataTool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jQuery v3.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/page_rank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/page_rank_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/theme/dark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/theme/vintage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/page_rank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/page_rank_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/goTop.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/goTop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/product.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/store.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/store.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/x9.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/x9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/activity/37eb56093e52c9a776ea7934a857f468.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/activity/3e2ee6c7bead4b033122f5d3311491cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/activity/5541198b7aa28d8ad034fc9f53e92b7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/activity/f63549a89d6c105b065b675bf5ac3c7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/01/vm-h-x9slive-bg-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/01/vm-h-x9slive-title1-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/01/vm-h-x9slive-title2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/01/vm-h-x9slive-title3-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/02/vm-h-game0627-bg-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/02/vm-h-game0627-title1-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/02/vm-h-game0627-title2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-different.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-figure1-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-figure2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-figure3-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-title1-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-title2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03/vm-h-x9hll-title3-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03_2/vm-h-x9plus-figure1-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03_2/vm-h-x9plus-figure2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03_2/vm-h-x9plus-title1-v2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03_2/vm-h-x9plus-title2-v2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/03_2/vm-h-x9plus-title3-v2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/04/vm-h-x9pyy-bg-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/04/vm-h-x9pyy-tips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/04/vm-h-x9pyy-title1-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/04/vm-h-x9pyy-title2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/car/04/vm-h-x9pyy-title3-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/funtouchos/fthos-ov-high-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/media/1d86fb0aee12fdc9d217c7a75945519d_125x105!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/media/71ba6dbe84daa6b4ce80f3b19af67c3c_125x105!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/media/941a9ccad1642445eaeef68e14558b89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/news/2bcb7c814722fb1810c55ff1c01301c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/news/53aebbb5f184c0a903259c2530c27842.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/news/c5d9df48b9d5bdd6949ee5a40a096326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/1ff43b403c876105fa3e68aa03a36d2a_248x248 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/1ff43b403c876105fa3e68aa03a36d2a_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/2292a1b3469311548a73a6ddbc5e4f60_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/2c83e6252eb516291eecaabf0fdebe16_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/4ccdfec60fdaa509ba764294bd642b14_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/58b06c7dddc95e97581bf72fcbd060fd_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/715cf52b293c2225c709c684c541af11_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/78a5aa95f30780413cff422c860ba803_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/80539c7d0fa77758f85ea04096e47743_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/823567b7584045a8007600c572ee29b9_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/8ad18b67486ef0250b1739b3b518b40f_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/c291aa4f2ef7eed5a4ae5761f52a7091.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/allProduct/e8863d54184be48c8d4ad71c6ea82077_248x248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/nba0510-cust-title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/nba0609-cust-figure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/vivo_l_pages-ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/xplay6-promos-figure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/xplay6-promos-title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/y53-promos-figure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/y53-promos-title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/y55-promos-figure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products/y55-promos-title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/show/6b4191e277ab9fc7190e7d53e19691d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/show/7468dad010330855102bcccfe218e9bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/show/d53cef438ff4b1d2711c32ae009c44c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/131bbe921e1b0fbc353d785f2d3d4467_320x200!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/1e07b111f09c9009bb61b97ff28c58ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/3a0cb20dff4d91c625858bc90992b00d_320x200!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/3fae765044d5796402b333b9c33a9531.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/7e36b1f85f3b56aa8b8368f815e1d0ce_288x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/84b317f7c84d8a7441228e00a6947536_320x200!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/87e82529e94cc159e0093ddc61be8881_288x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/e841bebe4637e367b1567ccbc5db658a_288x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/eab1acca0eac5ecd258c5347cb01af75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/exper-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/exper-star.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/ff66a366e4f07a3da63ad9d95a2f34b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/store/shop-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/vivo-x9-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-Nlink-ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-high-figure1-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-high-figure2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-high-title-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s1-bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s1-bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s1-icon1-x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s1-icon2-x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s11-figure1-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s11-figure2-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s11-title-mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s2-bg-v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s3-figure1-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s3-figure2-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s3-figure3-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s3-figure4-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s3-figure5-mini (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s3-figure5-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s4-bg-v2-x2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s4-bg-v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s5-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s5-line-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s5-mobile-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s5-patch-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s5-plug-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s6-bg-x2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s6-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s7-figure-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s8-bg-x2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s8-left-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s8-right-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s8-shadow-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/x9/x9-index-s9-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/默认标题_新版公众号首图_2018.11.21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/robot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/robot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/demo$data_model.coverage" NAME="data_model Coverage Results" MODIFIED="1543372486410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/demo$Flask__app_py___1_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1542942348384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1542640188776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1543312944745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$utils.coverage" NAME="utils Coverage Results" MODIFIED="1543576010439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="730201780">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="advogato" value="3" />
+          <entry key="certs-20030410" value="1" />
+          <entry key="cfg" value="1" />
+          <entry key="css" value="21" />
+          <entry key="html" value="43" />
+          <entry key="ico" value="3" />
+          <entry key="jpg" value="25" />
+          <entry key="js" value="24" />
+          <entry key="json" value="1" />
+          <entry key="png" value="54" />
+          <entry key="py" value="16" />
+          <entry key="sh" value="1" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="21" />
+          <entry key="HTML" value="43" />
+          <entry key="Image" value="82" />
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="24" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="16" />
+          <entry key="SQL" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="509" />
+          <entry key="dummy" value="13" />
+          <entry key="html" value="1695" />
+          <entry key="js" value="655" />
+          <entry key="py" value="7655" />
+          <entry key="sql" value="95" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="509" />
+          <entry key="HTML" value="1695" />
+          <entry key="JavaScript" value="655" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="7655" />
+          <entry key="SQL" value="95" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1930162546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="65" />
+          <entry key="gexf" value="2" />
+          <entry key="html" value="707" />
+          <entry key="js" value="889" />
+          <entry key="py" value="3660" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="65" />
+          <entry key="HTML" value="707" />
+          <entry key="JavaScript" value="889" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="3660" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="advogato" value="4" />
+          <entry key="css" value="3" />
+          <entry key="gexf" value="7" />
+          <entry key="html" value="20" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="14" />
+          <entry key="json" value="19" />
+          <entry key="py" value="10" />
+          <entry key="rnc" value="1" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="20" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="19" />
+          <entry key="JavaScript" value="14" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="10" />
+          <entry key="RNG Compact" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="15" />
+              <folding>
+                <element signature="e#16#39#0" expanded="true" />
+                <marker date="1543552253697" expanded="true" signature="807:856" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="912:913" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="912:959" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="2730:3830" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="2772:3830" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="2853:2858" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="3537:3830" ph="..." />
+                <marker date="1543552253697" expanded="true" signature="3829:3830" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-533">
+              <caret line="366" column="30" lean-forward="true" selection-start-line="366" selection-start-column="30" selection-end-line="366" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1543576006777" expanded="true" signature="1834:2573" ph="..." />
+                <marker date="1543576006777" expanded="true" signature="5872:10680" ph="..." />
+                <marker date="1543576006777" expanded="true" signature="6629:10680" ph="..." />
+                <marker date="1543576006777" expanded="true" signature="6898:7368" ph="..." />
+                <marker date="1543576006777" expanded="true" signature="7863:8260" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/data/test_json.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/page_rank_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/page_rank.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="104" column="22" lean-forward="true" selection-start-line="97" selection-start-column="20" selection-end-line="104" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Les</find>
+      <find>color</find>
+      <find>lineStyle</find>
+      <find>emphasis</find>
+      <find>main</find>
+      <find>r=&quot;235&quot; g=&quot;81&quot; b=&quot;72&quot;</find>
+      <find>legend</find>
+      <find>option</find>
+      <find>categories</find>
+      <find>nodes</find>
+      <find>ro</find>
+      <find>navbar-collapse</find>
+      <find>vivio-navbar-collapse</find>
+      <find>vivio-product-link</find>
+      <find>008cd6</find>
+      <find>#008cd6</find>
+      <find>2ba5d6</find>
+      <find>newVersion</find>
+      <find>navbar-header</find>
+      <find>vivio-navbar-brand</find>
+      <find>vivio-product</find>
+      <find>page_</find>
+      <find>size</find>
+      <find>symbolSize</find>
+      <find>Valjea</find>
+      <find>实验</find>
+      <find>myChart</find>
+      <find>roa</find>
+      <find>test_json.json</find>
+      <find>print</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\python_code\demo\templates</dir>
+      <dir>E:\python_code\demo\static\js</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/product.html" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/css/main.css" />
+        <option value="$PROJECT_DIR$/static/lib/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/static/js/chunk-vendors.a0378243.js" />
+        <option value="$PROJECT_DIR$/static/js/globalConfig.js" />
+        <option value="$PROJECT_DIR$/static/css/app.06ee3be2.css" />
+        <option value="$PROJECT_DIR$/templates/show_entity.html" />
+        <option value="$PROJECT_DIR$/static/js/main.js" />
+        <option value="$PROJECT_DIR$/static/css/main.css" />
+        <option value="$PROJECT_DIR$/data/dump.sql" />
+        <option value="$PROJECT_DIR$/robot-master/index.html" />
+        <option value="$PROJECT_DIR$/static/js/app.06ecc509.js" />
+        <option value="$PROJECT_DIR$/data/app.sh" />
+        <option value="$PROJECT_DIR$/baidu.py" />
+        <option value="$PROJECT_DIR$/data/data_model.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/templates/test1.html" />
+        <option value="$PROJECT_DIR$/templates/six.html" />
+        <option value="$PROJECT_DIR$/static/css/x9.css" />
+        <option value="$PROJECT_DIR$/templates/demo.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/index1.html" />
+        <option value="$PROJECT_DIR$/templates/robot.html" />
+        <option value="$PROJECT_DIR$/templates/search.html" />
+        <option value="$PROJECT_DIR$/static/css/nav.css" />
+        <option value="$PROJECT_DIR$/les-miserables.gexf" />
+        <option value="$PROJECT_DIR$/static/js/test.gexf" />
+        <option value="$PROJECT_DIR$/templates/page_rank.html" />
+        <option value="$PROJECT_DIR$/templates/attribute.html" />
+        <option value="$PROJECT_DIR$/static/js/attribute.js" />
+        <option value="$PROJECT_DIR$/static/js/six.js" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/page_rank_2.html" />
+        <option value="$PROJECT_DIR$/static/data/test_json.json" />
+        <option value="$PROJECT_DIR$/test_json.json" />
+        <option value="$PROJECT_DIR$/static/js/page_rank.js" />
+        <option value="$PROJECT_DIR$/static/js/page_rank_2.js" />
+        <option value="$PROJECT_DIR$/utils.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-13" />
+    <option name="y" value="72" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindowTerminal.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\buptkg\demo\static\data" />
+      <recent name="E:\buptkg\demo" />
+      <recent name="E:\buptkg\demo\static\theme" />
+      <recent name="E:\buptkg\demo\static\img" />
+      <recent name="E:\buptkg\demo\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\buptkg\demo\static\data" />
+      <recent name="E:\buptkg\demo\static\js" />
+      <recent name="E:\buptkg\demo\static\theme" />
+      <recent name="E:\buptkg\demo" />
+      <recent name="E:\python_code\demo\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.utils">
+    <configuration name="index1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo/templates/index1.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/data_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <option name="additionalOptions" value="--host=0.0.0.0 --port=8888" />
+      <option name="application" value="" />
+      <module name="demo" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="additionalOptions" value="--host=0.0.0.0 --port=8088" />
+      <option name="application" value="" />
+      <module name="demo" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="E:\python_code\demo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.demo" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="JavaScript Debug.index1.html" />
+      <item itemvalue="Python.utils" />
+      <item itemvalue="Python.data_model" />
+      <item itemvalue="Python.baidu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.data_model" />
+        <item itemvalue="Python.baidu" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+        <item itemvalue="JavaScript Debug.index1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="009b5449-6cff-4d49-b3fc-140cf12b2927" name="Default Changelist" comment="" />
+      <created>1542250996939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542250996939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49342105" visible="true" weight="0.22692889" />
+      <window_info id="Structure" order="1" sideWeight="0.5065789" side_tool="true" weight="0.18305598" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27586207" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32911393" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38916257" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32840723" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot-master/index.html" />
+    <entry file="file://$PROJECT_DIR$/static/js/bot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-169509844/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.06ecc509.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="7643" column="26" lean-forward="true" selection-start-line="7643" selection-start-column="26" selection-end-line="7643" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dump.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qas-sdk-python/api_client.py" />
+    <entry file="file://E:/python_code/demo/venv/Lib/site-packages/networkx/utils/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/app.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="151" selection-start-line="1" selection-start-column="151" selection-end-line="1" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/les-miserables.gexf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/python_code/demo/venv/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="1489" column="47" lean-forward="true" selection-start-line="1489" selection-start-column="47" selection-end-line="1489" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/test.html" />
+    <entry file="file://$PROJECT_DIR$/templates/test1.html" />
+    <entry file="file://$PROJECT_DIR$/static/js/dataTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="36" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/x9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="141" column="22" lean-forward="true" selection-start-line="141" selection-start-column="22" selection-end-line="141" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out_logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="6" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/advogato">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="106" column="20" lean-forward="true" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/product.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/robot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="107" column="6" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="e#16#30#0" expanded="true" />
+            <marker date="1543313110192" expanded="true" signature="257:685" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+            <marker date="1543374136446" expanded="true" signature="764:765" ph="..." />
+            <marker date="1543374136446" expanded="true" signature="764:2472" ph="..." />
+            <marker date="1543374136446" expanded="true" signature="1275:2472" ph="..." />
+            <marker date="1543374136446" expanded="true" signature="2470:2472" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centrality.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eigenvector_centrality.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3471">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/les-miserables.gexf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="96" column="51" selection-start-line="96" selection-start-column="51" selection-end-line="96" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/page_rank.gexf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="103" column="43" lean-forward="true" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/theme/dark.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/theme/vintage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="155" column="26" lean-forward="true" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/les-miserables.gexf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="632" column="54" lean-forward="true" selection-start-line="632" selection-start-column="54" selection-end-line="632" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/attribute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_rank_2.js" />
+    <entry file="file://$PROJECT_DIR$/page_rank.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advogato">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+          <folding>
+            <element signature="e#16#39#0" expanded="true" />
+            <marker date="1543552253697" expanded="true" signature="807:856" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="912:913" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="912:959" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="2730:3830" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="2772:3830" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="2853:2858" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="3537:3830" ph="..." />
+            <marker date="1543552253697" expanded="true" signature="3829:3830" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page_rank_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page_rank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="7" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_rank_2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#41#543#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_json.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="e#37#593#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/page_rank.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="104" column="22" lean-forward="true" selection-start-line="97" selection-start-column="20" selection-end-line="104" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/page_rank_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="366" column="30" lean-forward="true" selection-start-line="366" selection-start-column="30" selection-end-line="366" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1543576006777" expanded="true" signature="1834:2573" ph="..." />
+            <marker date="1543576006777" expanded="true" signature="5872:10680" ph="..." />
+            <marker date="1543576006777" expanded="true" signature="6629:10680" ph="..." />
+            <marker date="1543576006777" expanded="true" signature="6898:7368" ph="..." />
+            <marker date="1543576006777" expanded="true" signature="7863:8260" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/test_json.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

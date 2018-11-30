@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: networks
+Version: 0.3.7
+Summary: Allows to create NN models
+Home-page: https://github.com/sharnam19/Networks
+Author: Shharrnam Chhatpar
+Author-email: sharnam19.nc@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/sharnam19/Networks/archive/v0.3.7.tar.gz
+Description: UNKNOWN
+Keywords: machine-learning,deep-learning,neural-networks,linear regression,logistic regression
+Platform: UNKNOWN
